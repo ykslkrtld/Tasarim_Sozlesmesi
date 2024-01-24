@@ -1,0 +1,61 @@
+#container {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    margin-left: 100px;
+  }
+h1{
+    text-align: center;
+}
+#isim{
+    margin-left: 100px;
+}
+#soyisim{
+    margin-left: 80px;
+}
+#yas{
+    margin-left: 97px;
+}
+#mail{
+    margin-left: 44px;
+}
+#dosya{
+    margin-left: 32px;
+}
+
+#giriş{
+    margin-left: 120px;
+}
+#deneyim1{
+        margin-left: 140px;
+  }
+#deneyim2{
+    margin-left: 252px;
+  }
+#deneyim3{
+    margin-left: 252px;
+  }
+#deneyim4{
+    margin-left: 252px;
+  }
+#diller{
+    margin-left: 115px;
+  }
+p{
+    margin-left: 60px;
+}
+#div1{
+    margin-right: 50px;
+}
+#div2{
+    margin-right: 50px;
+}
+#div3{
+    margin-right: 50px;
+}
+#div4{
+    margin-right: 50px;
+}
+#div5{
+    margin-right: 50px;
+}
+ 
